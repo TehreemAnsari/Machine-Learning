@@ -1,0 +1,2 @@
+Algorithms used. 
+First, we will have to sample the data, since the provided data is quite huge. For sampling, to maintain the underlying distribution, we are first forming clusters, and from those clusters we pick random items.
