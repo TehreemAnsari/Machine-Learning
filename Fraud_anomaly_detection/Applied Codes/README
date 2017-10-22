@@ -1,0 +1,6 @@
+Currently 5 codes are applied to test their output:
+1. Logistic Regression
+2. SVM
+3. Multivariate Gaussian
+4. Decision Tree
+5. Random Forest
