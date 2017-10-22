@@ -1,1 +1,3 @@
 On the dataset: kaggle.com/dalpozz/creditcardfraud ML algorithms: Logistic Regression, SVM, Multivariate Gaussian, Decision Trees and Random Forest have been applied. This is to study how each algorithm behaves on the same data.
+
+Also you can refer: https://github.com/dalpozz/AMLFD for some reference papers and resources.
